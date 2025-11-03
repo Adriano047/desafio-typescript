@@ -1,0 +1,21 @@
+{
+  "name": "oficinatypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "tsx": "^4.20.6"
+  }
+}

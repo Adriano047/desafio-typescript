@@ -1,0 +1,1 @@
+{"version":3,"file":"biblioteca.d.ts","sourceRoot":"","sources":["../src/biblioteca.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,KAAK,GAAG;IAChB,EAAE,EAAE,MAAM,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;IACf,GAAG,EAAE,MAAM,CAAC;IACZ,UAAU,EAAE,OAAO,CAAC;IACpB,cAAc,CAAC,EAAE,IAAI,CAAC;CACzB,CAAA;AACD,eAAO,MAAM,MAAM,EAAE,KAAK,EAgEzB,CAAC"}
